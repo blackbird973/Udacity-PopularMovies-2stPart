@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+    <string name="app_name">Popular Movies</string>
+
+
+    <!--activity Movie Details name -->
+    <string name="title_activity_movie_details">Movie Details</string>
+
+
+
+
+    <!--release date-->
+    <string name="heading_release_date">Release Date</string>
+    <!--vote average-->
+    <string name="heading_vote_average">Vote Average</string>
+    <!--runtime text-->
+    <string name="no_release_date_found">No release date found</string>
+    <string name="no_summary_found">No summary was found</string>
+
+    <!--example strings-->
+    <string name="example_original_title">The Best Movie Ever</string>
+    <string name="example_release_date">01–12–2018</string>
+    <string name="example_vote_average">9.8/10</string>
+    <string name="example_overview">This is the best overview ever for the best movie ever, i have to put a bit of random text here to make an exemple of what the overview will be when the data will be loaded</string>
+    <string name="example_review">Excellent. Just the best movie ever !</string>
+
+
+
+    <!--lifetime and bundle-->
+    <string name="parcel_movie">PARCEL_MOVIE</string>
+
+    <!--preference-->
+    <string name="pref_sort_method_key">SORT_METHOD</string>
+    <string name="pref_sort_vote_avg_desc_key">SORT_TOP_RATED</string>
+    <string name="pref_sort_pop_desc_key">SORT_POPULAR</string>
+    <string name="pref_sort_favorite">SORT_FAVORITE</string>
+    <string name="pref_delete_favorite">DELETE_FAVORITE</string>
+    <string name="pref_add_favorite">ADD_FAVORITE</string>
+
+
+
+    <string name="key_themoviedb">7a5b337ae2d5f9921497cb1ef4a13dc1</string>
+
+    <string name="movie_id">012345</string>
+    <string name="movie_added_to_fav_strng">The movie was addes to favs !</string>
+
+
+
+    <!--tmdb sort strings-->
+    <!--tmdb sort popularity-->
+    <string name="tmdb_sort_pop_desc">popular</string>
+    <!--tmdb sort vote average-->
+    <string name="tmdb_sort_vote_avg_desc">top_rated</string>
+    <string name="description_movie_poster">Contains poster of movie</string>
+
+    <!--Error-->
+    <string name="error_need_internet">This application needs Internet connection to function.</string>
+
+    <!--Review-->
+    <string name="reviewer_name">Reviewer Name</string>
+    <string name="reviewer_content">Review Content</string>
+    <string name="author_tv">Author</string>
+
+
+
+
+</resources>

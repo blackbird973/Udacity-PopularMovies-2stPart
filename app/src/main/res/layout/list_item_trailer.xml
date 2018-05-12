@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/trailers_layout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical"
+    android:minHeight="72dp"
+    android:orientation="horizontal"
+    android:padding="16dp">
+
+
+    <ImageView
+        android:id="@+id/play_logo"
+        android:layout_width="80dp"
+        android:layout_height="60dp"
+        android:layout_centerInParent="true"
+        android:scaleType="centerCrop"
+        app:srcCompat="@drawable/yt"
+        android:layout_marginRight="5dp"
+         />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="@drawable/background_review">
+
+
+        <TextView
+            android:id="@+id/tv_trailer_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Trailer de Romeo Elvis Sur YT"
+            android:paddingRight="16dp"
+            android:textStyle="bold"/>
+
+            <TextView
+                android:id="@+id/tv_key"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="H12g3RpZ56gh"
+                android:paddingRight="16dp"
+                />
+
+
+
+        </LinearLayout>
+
+</LinearLayout>
