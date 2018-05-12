@@ -42,7 +42,7 @@ public class MovieDetailsActivity extends AppCompatActivity {
     private final String LOG_TAG = MovieDetailsActivity.class.getSimpleName();
 
     //AJOUT REVIEWS
-    private final static String API_KEY = "7a5b337ae2d5f9921497cb1ef4a13dc1";
+    private final static String API_KEY = "";
 
     private Menu mMenu;
 
