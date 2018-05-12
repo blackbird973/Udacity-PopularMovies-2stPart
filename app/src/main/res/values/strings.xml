@@ -41,7 +41,7 @@
 
 
 
-    <string name="key_themoviedb">7a5b337ae2d5f9921497cb1ef4a13dc1</string>
+    <string name="key_themoviedb"></string>
 
     <string name="movie_id">012345</string>
     <string name="movie_added_to_fav_strng">The movie was addes to favs !</string>
