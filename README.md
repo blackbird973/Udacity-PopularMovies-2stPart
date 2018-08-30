@@ -4,8 +4,5 @@ My work for the Part 2 of PopularMovies for the Udacity Android NanoDegree
 
 Put your TheMovieDatabase API key in Strings.xml and MovieDetailsActivity.java files.
 
-![screenshot_1535632839](https://user-images.githubusercontent.com/10677178/44852147-c8c61f80-ac62-11e8-880b-9810c1e89e78.png)
+![pjimage](https://user-images.githubusercontent.com/10677178/44870491-bbc02500-ac90-11e8-80e1-ed1d00fb3aaf.jpg)
 
-![screenshot_1535632963](https://user-images.githubusercontent.com/10677178/44852220-f7dc9100-ac62-11e8-9636-88ba40d0938a.png)
-
-![screenshot_1535633032](https://user-images.githubusercontent.com/10677178/44852303-26f30280-ac63-11e8-9da4-98c152243529.png)
